@@ -10,6 +10,9 @@ In a 2D game, the camera is effectively the “window” through which the playe
 
 ---
 
+YouTube Tutorial:
+https://youtu.be/u7LPRqrzry8?si=mGF2LUKqH4rS39XJ
+
 # 1. Basic Camera (Offset Method)
 
 ### Key Idea
